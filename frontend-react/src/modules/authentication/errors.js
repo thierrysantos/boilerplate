@@ -1,0 +1,3 @@
+/**
+ * Errors code from server
+ */

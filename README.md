@@ -1,2 +1,3 @@
 # boilerplate
-A useful repository that contains my personal boilerplates :start:
+
+A useful repository that contains my personal boilerplates
